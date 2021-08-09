@@ -1,0 +1,13 @@
+@keyframes showwindow {
+  0% {
+    object-position: top;
+  }
+
+  50% {
+    object-position: bottom;
+  }
+
+  100% {
+    object-position: top;
+  }
+}

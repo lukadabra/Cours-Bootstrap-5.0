@@ -36,34 +36,6 @@ h2.dot-effect {
   }
 }
 
-.bg-wave {
-  &.after::after {
-    content: "";
-    position: absolute;
-    bottom: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('/img/wave-top.svg');
-    background-position: top center;
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-
-  &.before::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-image: url('/img/wave.svg');
-    background-position: top center;
-    background-size: cover;
-    background-repeat: no-repeat;
-  }
-}
-
 .carousel {
   .carousel-item {
     position: relative;
@@ -89,4 +61,20 @@ h2.dot-effect {
 .img-cover {
   object-fit: cover;
   height: 250px;
+}
+
+.card {
+  & img.card-img-top {
+    object-fit: cover;
+    height: 400px;
+    object-position: top;
+
+    &:hover {
+      &.mobile-view {
+        animation: showwindow 12s infinite;
+      }
+
+      animation: showwindow 3s infinite;
+    }
+  }
 }
