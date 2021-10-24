@@ -39,9 +39,9 @@ Toutes les étapes (par chapitre) du projet fil rouge sont accessibles via ce li
 
 ## Contributing
 
-Benoît Philibert
-Max Mahmoud Wardeh
-[Luca Bousquet](https://www.linkedin.com/in/lucabousquet/)
+- Benoît Philibert
+- Max Mahmoud Wardeh
+- [Luca Bousquet](https://www.linkedin.com/in/lucabousquet/)
 
 
 ## License
