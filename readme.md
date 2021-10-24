@@ -1,6 +1,6 @@
 # Cours Bootstrap 5
 
-Bienvenue dans le Github du projet fil rouge "Portfolio" associé au cours [OpenClassrooms sur Bootstrap 5](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4).
+Bienvenue dans le Github du projet fil rouge "Portfolio" associé au [cours OpenClassrooms sur Bootstrap 5](https://openclassrooms.com/fr/courses/6391096-creez-des-sites-web-responsive-avec-bootstrap-4).
 
 ## Sommaire
 
